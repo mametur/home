@@ -9,7 +9,7 @@
 >
 >  </details>
 
-- [Class Calendar](./assets/calendar.jpg)
+- [Class Calendar](./assets/calendar.png)
 - [Study Board](https://github.com/lab-brussels-1/home/projects/1)
 - [Discord](https://discord.com/channels/894607053367181402/)
 - People
@@ -213,19 +213,8 @@ shared divided across team.
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-### [9. Headless CMS](https://github.com/hackyourfuturebelgium/headless-cms): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Acheck-in)
-> |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"9.%20Headless%20CMS"+label%3Adeliverable)
-> |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/10)
-
-Learn what a Content Management System is and explore how you use one to model
-the data for your own web applications.
-
-### [10. Component Based Design](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
+### [9. Component Based Design/React](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
@@ -237,7 +226,7 @@ the data for your own web applications.
 Practice developing Single Page Apps built from reusable UI components, and
 explore your first Frontend Framework.
 
-### [11. Individual Project](https://github.com/hackyourfuturebelgium/individual-project): 2 weeks
+### [Individual Project](https://github.com/hackyourfuturebelgium/individual-project): 2 weeks
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Acheck-in)
 > |
@@ -249,7 +238,7 @@ explore your first Frontend Framework.
 Prepare for the final project by individually designing, planning, building and
 deploying your own fullstack web app.
 
-### [12. Final Project](https://github.com/hackyourfuturebelgium/final-project): 6 weeks
+### [Final Project](https://github.com/hackyourfuturebelgium/final-project): 6 weeks
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Acheck-in)
 > |
