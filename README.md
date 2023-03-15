@@ -11,7 +11,6 @@
 
 - [Class Calendar](./assets/calendar.png)
 - [Study Board](https://github.com/lab-brussels-1/home/projects/1)
-- [Discord](https://discord.com/channels/894607053367181402/)
 - People
   - [Learners](#learners) -
     [Randomizer](https://lab-brussels-1.github.io/home/randomizer)
